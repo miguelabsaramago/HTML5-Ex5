@@ -1,0 +1,23 @@
+body {
+    background-color: #cccccc;
+}
+
+.central {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #eeeeee;
+    padding: 50px;
+    height: 800px;
+}
+
+.pesquisa {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 50px;
+}
+
+input {
+    border: none;
+}
